@@ -14,7 +14,7 @@ The differences from the original data set:
 
 The tidy set list observations over 81 variables:
 
-subject lists the subjects assigned number in the original experiment[1], range from 1 to 3.
+subject lists the subjects assigned number in the original experiment[1], range from 1 to 30.
 activity indicate the activity type, there are 6 activity type in experiment[1], so as the tidydata set. Namely,
 Levels: LAYING SITTING STANDING WALKING WALKING_DOWNSTAIRS WALKING_UPSTAIRS
 
